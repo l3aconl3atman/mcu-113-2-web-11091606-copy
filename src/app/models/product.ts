@@ -10,7 +10,7 @@ export class Product {
 
   company!: string;
 
-  author!: string;
+  authors!: string;
 
   price!: number;
 
