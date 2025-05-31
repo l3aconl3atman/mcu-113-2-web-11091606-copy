@@ -57,20 +57,6 @@
       "price": 1000
     },
     {
-      "id": "5",
-      "name": "書籍 E",
-      "authors": [
-        "作者甲",
-        "作者乙",
-        "作者丙"
-      ],
-      "company": "博碩文化",
-      "isShow": true,
-      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
-      "createDate": "2023-10-17T00:00:00.000+08:00",
-      "price": 1000
-    },
-    {
       "id": "6",
       "name": "書籍 F",
       "authors": [
@@ -113,16 +99,26 @@
       "price": 1000
     },
     {
-      "id": "ceca",
+      "id": null,
       "name": "書籍 Z",
       "company": "博碩文化",
-      "authors": [
-        "ABC"
-      ],
-      "price": 100,
+      "authors": [],
+      "price": 1000,
       "isShow": true,
       "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
-      "createDate": "2025-05-31T07:43:09.411Z"
+      "createDate": "2025-05-31T08:22:56.021Z"
+    },
+    {
+      "id": "d68a",
+      "name": "書籍 Z1",
+      "company": "博碩文化",
+      "authors": [
+        "ABCb"
+      ],
+      "price": 1000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-05-31T08:34:58.353Z"
     }
   ]
 }
