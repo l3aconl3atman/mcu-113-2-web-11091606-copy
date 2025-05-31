@@ -113,18 +113,16 @@
       "price": 1000
     },
     {
-      "id": "d4c2",
+      "id": "ceca",
       "name": "書籍 Z",
       "company": "博碩文化",
       "authors": [
-        "作者甲",
-        "作者乙",
-        "作者丙"
+        "ABC"
       ],
-      "price": 10000,
+      "price": 100,
       "isShow": true,
       "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
-      "createDate": "2025-04-08T16:00:00.000Z"
+      "createDate": "2025-05-31T07:43:09.411Z"
     }
   ]
 }
